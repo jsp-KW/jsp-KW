@@ -1,5 +1,5 @@
 ### Hello, World! 👋 
-### (☞ﾟヮﾟ)☞  알아야 할 것이 너무 많아 === 맛있는 것이 많구나 ✔
+### (☞ﾟヮﾟ)☞  알아야 할 것이 너무 많아 === 맛있는 것(?)이 많구나 ✔
 
 <!--
 **jsp-KW/jsp-KW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
