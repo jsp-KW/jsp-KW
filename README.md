@@ -7,7 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jsp-KW&theme=default" width="48%"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12" width="48%"/>
 </p>
 
 ---
@@ -45,5 +46,4 @@
 ---
 
 ### 🔗 Links
-
 - Contact: jungsupill@gmail.com
