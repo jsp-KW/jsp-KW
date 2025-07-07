@@ -1,15 +1,16 @@
 ### Hello, World! 👋 
 ### (☞ﾟヮﾟ)☞  알아야 할 것이 너무 많아 === 맛있는 것(?)이 많구나 ✔
 
+<div align="center">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsp-KW"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jsp-KW"/>
-  <br>
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsp-KW&layout=compact" width="350"/>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jsp-KW&show_icons=true&theme=default" width="400"/>
+  <br><br>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12" width="400"/>
+
 </div>
-    
+
 <br>
 <!--
 **jsp-KW/jsp-KW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
