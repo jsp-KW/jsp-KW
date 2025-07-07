@@ -1,6 +1,6 @@
 ## 🧑‍💻 Essay Jung — Backend & AI Developer Portfolio
 > (☞ﾟヮﾟ)☞ 알아야 할 것이 너무 많아 === 맛있는 것(?)이 많구나 ✔
-
+> 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jsp-KW&show_icons=true&theme=calm" width="48%" height="190"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsp-KW&layout=compact&theme=calm" width="48%" height="190"/>
