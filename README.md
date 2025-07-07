@@ -2,13 +2,13 @@
 > (☞ﾟヮﾟ)☞ 알아야 할 것이 너무 많아 === 맛있는 것(?)이 많구나 ✔
 > 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jsp-KW&show_icons=true&theme=default" width="48%" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsp-KW&layout=compact" width="48%" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jsp-KW&show_icons=true&theme=calm" width="48%" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsp-KW&layout=compact&theme=calm" width="48%" height="190"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jsp-KW&theme=default" width="48%" height="180"/>
-  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12" width="48%" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jsp-KW&theme=calm" width="48%" height="190"/>
+  <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=supill12" width="48%" height="190"/>
 </p>
 
 ---
