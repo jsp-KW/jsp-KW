@@ -1,4 +1,4 @@
-## 🧑‍💻 Essay Jung — Backend & AI Developer Portfolio
+## Essay Jung — Backend & AI Developer Portfolio
 > (☞ﾟヮﾟ)☞ 알아야 할 것이 너무 많아 === 맛있는 것(?)이 많구나 ✔
 > 
 <p align="center">
