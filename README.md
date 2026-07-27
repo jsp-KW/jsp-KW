@@ -1,7 +1,5 @@
 ## Essay Jung 
 
----
-
 ### 🛠 Tech Stack
 
 <p>
